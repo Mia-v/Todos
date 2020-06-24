@@ -10,16 +10,6 @@ type Task ={
 }
 
 
-/*
-     
-        --to 
-            Arr.map
-    component CountItems
-        --to count items
-            Arr.length
-*/
-
-
 export const App = ()=> {
 
     return (
